@@ -1,0 +1,1 @@
+export const TampilkanApapun = () => console.log("apapun")
