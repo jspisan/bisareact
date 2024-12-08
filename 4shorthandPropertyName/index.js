@@ -6,11 +6,13 @@
 const namaDepan = "Andi"
 const namaBelakang = "Hidayat"
 const gelar = "S.P"
+const ipk = 3.05
 
 const namaLengkap = {
     namaDepan,
     namaBelakang,
-    gelar
+    gelar,
+    ipk: ipk,
 }
 
 console.log(namaLengkap)
